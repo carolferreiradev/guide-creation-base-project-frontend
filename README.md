@@ -3,16 +3,17 @@
 <h1 align="center">Guide creation base project frontend</h1>
 <img alt="main" src="https://github.com/carolferreiradev/guide-creation-base-project-frontend/blob/main/guide.svg" width="100%">
 </br>
+
+## DESCRIPTION
+
 </p>
 Guide for creating and configuring a frontend base project containing: NextJs with Typescript, ESLint, Prettier, Husky, Jest, Testing Library, Storybook, Styled Components, configure absolute path in Typescript, Storybook and Jest.
 </br>
 
-## Getting Started
-
 </br>
 
 - NAVIGATION
-  - [GETTING STARTED](#getting-started)
+  - [DESCRIPTION](#description)
   - [PROJECT WITH NEXTJS AND TYPESCRIPT](#project-with-nextjs-and-typescript)
   - [STYLED COMPONENTS](#styled-components)
   - [ESLINT](#eslint)
