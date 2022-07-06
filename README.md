@@ -11,21 +11,6 @@ Guide for creating and configuring a frontend base project containing: NextJs wi
 
 </br>
 
-Topics covered:
-</br>
-
-- NextJs with Typescript
-- ESLint
-- Prettier
-- Husky
-- Jest
-- Testing Library
-- Storybook
-- Styled Components.
-- Configure absolute path in Typescript, Storybook and Jest
-  </br>
-  </br>
-
 - NAVIGATION
   - [GETTING STARTED](#getting-started)
   - [PROJECT WITH NEXTJS AND TYPESCRIPT](#project-with-nextjs-and-typescript)
